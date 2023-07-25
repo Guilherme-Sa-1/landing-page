@@ -1,0 +1,11 @@
+a:hover{
+    color: rgb(255, 149, 0);
+}
+
+h1{
+    text-transform: capitalize;
+}
+
+.section-2 a h3:hover{
+    color: rgb(255, 149, 0);
+}
